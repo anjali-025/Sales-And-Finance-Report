@@ -6,7 +6,7 @@ Project Objectives
 Created a comprehensive [report](Customer_NetSales_Performance.pdf) to analyze customer performance and behavior.
 
 2. Market Performance Analysis:
-Conducted a thorough analysis to compare [market performance](Market_Performance Vs Target.pdf) with sales targets and goals.
+Conducted a thorough analysis to compare [market performance](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/Market_Performance%20Vs%20Target.pdf) with sales targets and goals.
 
 Purpose of Sales Analytics
 
