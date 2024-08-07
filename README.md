@@ -32,7 +32,7 @@ Empower businesses to effectively monitor, assess, and enhance their sales strat
 
 Project Objectives:
 
-1. Profit and Loss (P&L) Reports : Created (P&L) Reports By (Fiscal Year)[] and (Months)[].
+1. Profit and Loss (P&L) Reports : Created (P&L) Reports By (Fiscal Year)[P & L Fiscal Year.pdf] and (Months)[].
 
 #Report Access
 
