@@ -1,5 +1,4 @@
-# Sales Report And Finance Report oF AtliQ Hardwares:
-
+# Sales And Finance Report of AtliQ Hardwares:
 #Sales Report:
 
 Project Objectives
