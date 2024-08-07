@@ -3,7 +3,7 @@
 
 Project Objectives
 1. Customer Performance Evaluation
-Created a comprehensive report to analyze customer performance and behavior.
+Created a comprehensive (report)[Customer_NetSales_Performance.pdf] to analyze customer performance and behavior.
 
 2. Market Performance Analysis
 Conducted a thorough analysis to compare market performance with sales targets and goals.
