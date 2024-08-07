@@ -33,7 +33,7 @@ Empower businesses to effectively monitor, assess, and enhance their sales strat
 Project Objectives:
 
 1. Profit and Loss (P&L) Reports : Created (P&L) Reports By [Fiscal Year](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/P%20%26%20L%20Fiscal%20Year.pdf) and [Months](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)
-2. Profit and loss (P&L) By MArket : Generated detailed Profit and Loss (P&L) statements segmented by different [markets].
+2. Profit and loss (P&L) By MArket : Generated detailed Profit and Loss (P&L) statements segmented by different [markets](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/P%20%26%20L%20By%20Market.pdf).
 
 #Report Access
 
