@@ -28,6 +28,12 @@ Empower businesses to effectively monitor, assess, and enhance their sales strat
 
 -Exploring Expansion Opportunities: Identifying potential markets for business growth and expansion.
 
+# Finance Report:
+
+Project Objectives:
+
+1. Profit and Loss (P&L) Reports : Created (P&L) Reports By (Fiscal Year)[] and (Months)[].
+
 #Report Access
 
 You can view the full report by following this link: Sales and Finance Report
