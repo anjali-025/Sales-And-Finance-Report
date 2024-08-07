@@ -1,4 +1,6 @@
-# Sales Report
+# Sales Report And Finance Report oF AtliQ Hardwares:
+
+#Sales Report:
 
 Project Objectives
 1. Customer Performance Evaluation
