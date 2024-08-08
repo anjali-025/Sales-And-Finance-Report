@@ -1,59 +1,40 @@
-# Sales And Finance Report of AtliQ Hardwares:
-#Sales Report:
+# Sales And Finance Report of AtliQ Hardware:
+This repository contains my Excel analysis project for Atliq Hardware, a company that sells computers, mice, and keyboards worldwide. The project focuses on sales and finance data, providing insights into performance and strategic opportunities.
 
-Project Objectives
-1. Customer Performance Evaluation:
-Created a comprehensive [report](Customer_NetSales_Performance.pdf) to analyze customer performance and behavior.
+**Files**
 
-2. Market Performance Analysis:
-Conducted a thorough analysis to compare [market performance](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/Market_Performance%20Vs%20Target.pdf) with sales targets and goals.
+**Sales Report**: Contained Sales Data Analysis,including:
+1. Customer Netsales Performance :Analysis of net sales performance by customer.
+2. Market performance Vs Target : Comparison of market performance against sales targets.
+3. Top 10 Products : A list of the top 10 products by sales.
+4. Division Level Report : Performance analysis by division.
+5. Top & Bottom Product City: Cities with the highest and lowest product sales.
+6. New Product 2021 : Analysis of new products introduced in 2021.
+7. Top 5 countries : Overview of the top 5 countries by sales.
 
-**Purpose of Sales Analytics**
+**Finance Report** : Contained Finance Data Analysis, including:
+1. P&L By Fiscal Year : Detailed profit and loss statements by fiscal year.
+2. P&L By Months and Quarters : Profit and loss statements segmented by months and quarters.
+3. P&l By market : Profit and loss statements segmented by market.
+4. Gm% By Quaters: Gross margin percentage analysis by quarter.
 
-Empower businesses to effectively monitor, assess, and enhance their sales strategies and outcomes.
+**Technical Skills Acquired**
+Throughout this project, I have developed and applied the following technical skills:
+ -**ETL**: Extracted, transformed, and loaded data for analysis.
+- **Creating Date Table and Driving Fiscal Month and Quarters**: Developed date tables and established fiscal month and quarter calculations.
+- **Establishing Data Model**: Designed a star schema data model with a central fact table connected to dimension tables.
+- **Conditional Formatting**: Applied conditional formatting to highlight key data insights.
+- **Creating DAX Measures and Columns**: Developed DAX measures and calculated columns for smooth data analysis using aggregated functions.
 
-**Importance of Sales Data Analysis**
+**Insights**
+1.
 
--Identifying Trends: Discovering patterns and trends in sales data.
 
--Tracking Metrics: Monitoring essential performance indicators.
 
--Data-Driven Decisions: Using insights to support informed business decisions.
 
-**Role of the Report**
 
--Discount Strategy Optimization: Determining the most effective discount strategies for customers.
-
--Supporting Negotiations: Aiding in the negotiation process with data-backed insights.
-
--Exploring Expansion Opportunities: Identifying potential markets for business growth and expansion.
-
-# Finance Report:
-
-Project Objectives:
-
-1. Profit and Loss (P&L) Reports : Created (P&L) Reports By [Fiscal Year](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/P%20%26%20L%20Fiscal%20Year.pdf) and [Months](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf)
-2. Profit and loss (P&L) By MArket : Generated detailed Profit and Loss (P&L) statements segmented by different [markets](https://github.com/anjali-025/Sales-And-Finance-Report/blob/main/P%20%26%20L%20By%20Market.pdf).
-
-**Purpose of Finance Analysis**
- Analyzing financial data to drive strategic decisions and improve overall business performance.
-
- **Importance of Finance Data Analysis**
- Helps compare performance with industry standards and past results, and supports accurate budgeting and forecasting.
-
- **Role of the Report**
-  Provides insights for performance evaluation, supports budgeting decisions, and guides financial planning strategies.
-
- # Technical & Soft Skills
-   ETL Process: Efficient in managing data extraction, transformation, and loading.
-   Date Management: Skilled in creating and managing date tables in Power Query.
-
-#Report Access
-
-You can view the full report by following this link: Sales and Finance Report
  
  
-
 
 
 
