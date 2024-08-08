@@ -19,15 +19,31 @@ This repository contains my Excel analysis project for Atliq Hardware, a company
 4. Gm% By Quaters: Gross margin percentage analysis by quarter.
 
 **Technical Skills Acquired**
+
 Throughout this project, I have developed and applied the following technical skills:
- -**ETL**: Extracted, transformed, and loaded data for analysis.
+- **ETL**: Extracted, transformed, and loaded data for analysis.
 - **Creating Date Table and Driving Fiscal Month and Quarters**: Developed date tables and established fiscal month and quarter calculations.
 - **Establishing Data Model**: Designed a star schema data model with a central fact table connected to dimension tables.
 - **Conditional Formatting**: Applied conditional formatting to highlight key data insights.
 - **Creating DAX Measures and Columns**: Developed DAX measures and calculated columns for smooth data analysis using aggregated functions.
 
+**Knowledge Gained**
+
+- **Sales Knowledge** - Acquired understanding of sales performance, market trends, and strategy development.
+- **Finance Knowlege** - Gained insights into financial performance, budgeting, and strategic decision-making.
+
 **Insights**
-1.
+1.The three customers with the highest net sales were Amazon, AtliQ E-Store, and AtliQ Exclusive.
+
+2.For the year 2021, India led the market with net sales amounting to $161.3 million, while Sweden recorded the lowest net sales at $0.2 million.
+
+
+
+
+
+
+
+
 
 
 
