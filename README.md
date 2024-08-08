@@ -1,5 +1,5 @@
 # Sales And Finance Report of AtliQ Hardware:
-This repository contains my Excel analysis project for Atliq Hardware, a company that sells computers, mice, and keyboards worldwide. The project focuses on sales and finance data, providing insights into performance and strategic opportunities.
+This repository contains my Excel analysis project for Atliq Hardware, a company that sells computers, mouse, and keyboards worldwide. The project focuses on sales and finance data, providing insights into performance and strategic opportunities.
 
 **Files**
 
