@@ -33,9 +33,14 @@ Throughout this project, I have developed and applied the following technical sk
 - **Finance Knowlege** - Gained insights into financial performance, budgeting, and strategic decision-making.
 
 **Insights**
+
 1.The three customers with the highest net sales were Amazon, AtliQ E-Store, and AtliQ Exclusive.
 
 2.For the year 2021, India led the market with net sales amounting to $161.3 million, while Sweden recorded the lowest net sales at $0.2 million.
+
+3.The AQ-Master Wired 1x Ms was the top-selling product with 4.2 thousand units sold, while the AQ Home Allin Gen2 had the lowest sales, with only 8.9 thousand units.
+
+4.From October to December, sales were increasing, especially in India.
 
 
 
