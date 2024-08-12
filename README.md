@@ -34,7 +34,7 @@ Throughout this project, I have developed and applied the following technical sk
 
 **Insights**
 
-1.The three customers with the highest net sales were Amazon, AtliQ E-Store, and AtliQ Exclusive.
+1.The three customers with the highest net sales were Amazon, AtliQ e-Store, and AtliQ Exclusive.
 
 2.For the year 2021, India led the market with net sales amounting to $161.3 million, while Sweden recorded the lowest net sales at $0.2 million.
 
