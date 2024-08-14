@@ -36,7 +36,7 @@ Creating user-friendly reports with a focus on user needs
 Enhancing report quality through careful adjustments and fine-tuning
 
 **Files**
-1. SalesReport: Contains files and analyses related to the [Sales report](https://github.com/anjali-025/Sales-And-Finance-Report/tree/main).
+1. SalesReport: Contains files and analyses related to the [Sales report](Sales Report.pdf).
 2. FinanceReport: Contains files and analyses related to the [Finance report](https://github.com/anjali-025/Sales-And-Finance-Report/commit/9cf12fb036a3b678767639f63751dc9f958a187f).
 
 
