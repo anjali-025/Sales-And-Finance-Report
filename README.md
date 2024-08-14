@@ -1,39 +1,43 @@
-# Sales And Finance Report of AtliQ Hardware:
-This repository contains my Excel analysis project for Atliq Hardware, a company that sells computers, mouse, and keyboards worldwide. The project focuses on sales and finance data, providing insights into performance and strategic opportunities.
+**AtliQ Hardware Sales and Finance Report**
 
-**Files**
+**Project Overview**
 
-**Sales Report**: Contained Sales Data Analysis,including:
-1. Customer Netsales Performance :Analysis of net sales performance by customer.
-2. Market performance Vs Target : Comparison of market performance against sales targets.
-3. Top 10 Products : A list of the top 10 products by sales.
-4. Division Level Report : Performance analysis by division.
-5. Top & Bottom Product City: Cities with the highest and lowest product sales.
-6. New Product 2021 : Analysis of new products introduced in 2021.
-7. Top 5 countries : Overview of the top 5 countries by sales.
+AtliQ Hardware is a company that supplies hardware and components worldwide. This project involved creating comprehensive Sales and Finance reports to enhance sales strategies, identify growth opportunities, and improve financial decision-making.
 
-**Finance Report** : Contained Finance Data Analysis, including:
-1. P&L By Fiscal Year : Detailed profit and loss statements by fiscal year.
-2. P&L By Months and Quarters : Profit and loss statements segmented by months and quarters.
-3. P&l By market : Profit and loss statements segmented by market.
-4. Gm% By Quaters: Gross margin percentage analysis by quarter.
+**Objective**
 
-**Technical Skills Acquired**
+The project aimed to create comprehensive reports analyzing AtliQ's market performance from 2019 to 2021, providing insights to support better decision-making.
 
-Throughout this project, I have developed and applied the following technical skills:
-- **ETL**: Extracted, transformed, and loaded data for analysis.
-- **Creating Date Table and Driving Fiscal Month and Quarters**: Developed date tables and established fiscal month and quarter calculations.
-- **Establishing Data Model**: Designed a star schema data model with a central fact table connected to dimension tables.
-- **Conditional Formatting**: Applied conditional formatting to highlight key data insights.
-- **Creating DAX Measures and Columns**: Developed DAX measures and calculated columns for smooth data analysis using aggregated functions.
+**Steps Taken**
 
-**Soft skills**
+ETL Process: Extracted, transformed, and loaded data, ensuring accuracy by cleaning and integrating it with Power Query and Power Pivot.
 
-Understanding of Sales and Finance reports.
+Data Modeling: Set up a star schema and a dynamic time dimension for detailed fiscal year analysis.
 
-Creating user-friendly reports with a focus on user needs.
+Pivot Table & Power Pivot: Utilized these tools to build custom measures and analyze data.
 
-Enhancing report quality through careful adjustments and fine-tuning.
+DAX Measures: Created over 10 measures, like Net Sales and Gross Margin, to derive insights aligned with the fiscal year.
+
+Conditional Formatting: Applied formatting techniques to enhance data presentation and highlight important trends.
+
+**Insights**
+
+Top Customer: Amazon led with net sales of $82.1 million in 2021, followed by AtliQ Exclusive and AtliQ e-store.
+
+Market Performance: India had the highest sales at $161.3 million, while Sweden had the lowest at $1.8 million.
+
+Product Growth: AQ MX NB saw the highest percentage increase in net sales from 2020 to 2021.
+
+Division Performance: The P&A division recorded the highest sales at $338.4 million, while the PC division saw the most significant percentage increase in net sales.
+
+Top and Bottom Products: AQ Mastered Wired X1 was the top-selling product by quantity, and AQ Zen Z was the lowest.
+
+Sales Peak:  Notable increase in sales was recorded between October and November.
+
+New Products: 16 new products launched in 2021, with AQ Qwerty leading sales at $22 million USD.
+
+
+
 
 
 
