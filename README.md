@@ -27,20 +27,19 @@ Throughout this project, I have developed and applied the following technical sk
 - **Conditional Formatting**: Applied conditional formatting to highlight key data insights.
 - **Creating DAX Measures and Columns**: Developed DAX measures and calculated columns for smooth data analysis using aggregated functions.
 
-**Knowledge Gained**
+**Soft skills**
 
-- **Sales Knowledge** - Acquired understanding of sales performance, market trends, and strategy development.
-- **Finance Knowlege** - Gained insights into financial performance, budgeting, and strategic decision-making.
+Understanding of Sales and Finance reports
 
-**Insights**
+Creating user-friendly reports with a focus on user needs
 
-1.The three customers with the highest net sales were Amazon, AtliQ e-Store, and AtliQ Exclusive.
+Enhancing report quality through careful adjustments and fine-tuning
 
-2.For the year 2021, India led the market with net sales amounting to $161.3 million, while Sweden recorded the lowest net sales at $0.2 million.
+**Files**
+1. SalesReport: Contains files and analyses related to the (Sales report)[].
+2. FinanceReport: Contains files and analyses related to the Finance report.
 
-3.The AQ-Master Wired 1x Ms was the top-selling product with 4.2 thousand units sold, while the AQ Home Allin Gen2 had the lowest sales, with only 8.9 thousand units.
 
-4.From October to December, sales were increasing, especially in India.
 
 
 
